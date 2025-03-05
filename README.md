@@ -81,11 +81,6 @@ docker run -p 8000:8000 ai-browser-agent
 ```
 
 ## **👨‍💻 Contributors**
-- **Your Name** (@Kirit2121)
+- **Your Name** (@yourgithub)
 - Feel free to contribute! Open a PR. 💡
-
----
-
-## **🐟 License**
-MIT License
 
