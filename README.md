@@ -80,38 +80,8 @@ docker build -t ai-browser-agent .
 docker run -p 8000:8000 ai-browser-agent
 ```
 
----
-
-## **💂️ Folder Structure**
-```
-💁 ai_browser_agent
-🌂 app
-🌂 automation          
-🌂 models              
-🌂 api                 
-🌂 main.py                
-🌂 frontend
-🌂 reports
-🌂 tests
-🌂 docker
-🌂 requirements.txt
-🌂 README.md
-🌂 .gitignore
-🌂 start.sh
-🌂 config.yaml
-```
-
----
-
-## **🛠️ TODO**
-- [ ] Multi-browser support (Firefox, Edge)
-- [ ] CI/CD pipeline for auto-deployment
-- [ ] AI-generated test cases
-
----
-
 ## **👨‍💻 Contributors**
-- **Your Name** (@yourgithub)
+- **Your Name** (@Kirit2121)
 - Feel free to contribute! Open a PR. 💡
 
 ---
